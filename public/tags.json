@@ -1,0 +1,26 @@
+[
+    {
+        "name": "React",
+        "image": "https://i.ibb.co/hVqKnLf/icons8-react-16.png"
+    },
+    {
+        "name": "MongoDB",
+        "image": "https://i.ibb.co/2kJ936S/icons8-mongo-db-48.png"
+    },
+    {
+        "name": "Authentication",
+        "image": "https://i.ibb.co/bLzX4D3/icons8-firebase-48.png"
+    },
+    {
+        "name": "Express",
+        "image": "https://i.ibb.co/2hxmcjq/icons8-express-js-50.png"
+    },
+    {
+        "name": "Javascript",
+        "image": "https://i.ibb.co/FYgFpn3/icons8-javascript-48.png"
+    },
+    {
+        "name": "TypeScript",
+        "image": "https://i.ibb.co/YDhY9Vp/icons8-typescript-50.png"
+    }
+]
